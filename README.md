@@ -2,6 +2,7 @@
 Tugas Berbasis Kasus Ketiga Inteligensi Buatan
 
 Dosen Pengampu : Rahman Indra Kesuma, S.Kom., M.Cs. 
+
 Nama Anggota:
 1. Fadzilah Saputri (!23140149)
 2. Fadina Mustika Ratnaningsih (123140157)
