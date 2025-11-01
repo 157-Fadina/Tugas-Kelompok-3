@@ -15,3 +15,5 @@ Setiap kelompok diwajibkan memberikan solusi dalam bentuk program (bahasa pemrog
 Pengumpulan dilakukan dengan membuat laporan dalam file PDF dari (i) penerapan algoritma dalam pseudo-code; (ii) penerapan algoritma dalam bahasa pemrograman; serta (iii) link youtube yang berisi simulasi penggunaan program yang telah dibuat. Pengumpulan laporan paling lambat dilakukan hingga hari Minggu (2 November 2025) pukul 23.59 WIB.
 
 <img width="822" height="464" alt="image" src="https://github.com/user-attachments/assets/265c4f67-dd6c-4377-92f6-b88fc747abe0" />
+
+Link video YouTube: https://youtu.be/0-JyYGu7UC8?si=COK_joBMLnq7TVBl
